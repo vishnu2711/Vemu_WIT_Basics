@@ -4,3 +4,6 @@ In future you are going to have all basics of JS as well.
 ## Updates 
 In upcoming release you can find the Js basics as well with new UI and some changes in Webpage as well.
 I will keep posting the updates.
+
+##link to website 
+https://vishnu2711.github.io/Vemu_WIT_Basics/basic.html
